@@ -1,1 +1,1 @@
-web: python3 SangMetainfo_bot.py
+web3: python3 SangMetainfo_bot.py
