@@ -1,1 +1,1 @@
-worker: python3 SangMetainfo_bot.py
+worker: python3 Sangmetainfo_bot
